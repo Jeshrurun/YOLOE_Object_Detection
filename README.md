@@ -1,4 +1,4 @@
-YOLO-E Object Detection with Ultralytics
+# YOLO-E Object Detection with Ultralytics
 Object detection in images and real-time video using Ultralytics YOLO-E, with both .ipynb notebooks and .py scripts.
 
 📖 Table of Contents
